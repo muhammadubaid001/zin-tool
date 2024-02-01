@@ -275,7 +275,7 @@ export const Footer = () => {
                   Similar
                 </span>
                 <span className="ml-1 flex items-center rounded-xl bg-text-dark min-h-[34px] md:min-h-[38px] px-2.5 mb-1 ">
-                  <span className="text-xl font-bold leading-none text-white md:text-xl dark:text-black">
+                  <span className="text-xl font-bold leading-none text-white md:text-xl">
                     Watch
                   </span>
                 </span>
