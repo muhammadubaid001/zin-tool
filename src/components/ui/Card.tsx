@@ -8,7 +8,7 @@ interface Props {
 
 export const Card: FC<Props> = ({ title, description, image }) => {
   return (
-    <div className="border border-gray-200 cursor-pointer rounded-xl p-5 hover:custom-shadow transition transform ease-in-out">
+    <div className="flex-none md:w-60 border border-gray-200 cursor-pointer rounded-xl p-5 hover:custom-shadow transition transform ease-in-out">
       <div>
         <img
           className=""
