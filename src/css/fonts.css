@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: "Harmony-Light";
+    src: url("HarmonyOS_Sans/HarmonyOS_Sans_Light.ttf") format("woff");
+}
+
+@font-face {
+    font-family: "Harmony-Regular";
+    src: url("HarmonyOS_Sans/HarmonyOS_Sans_Regular.ttf") format("woff");
+}
+
+@font-face {
+    font-family: "Harmony-Medium";
+    src: url("HarmonyOS_Sans/HarmonyOS_Sans_Medium.ttf") format("woff");
+}
+
+@font-face {
+    font-family: "Harmony-Black";
+    src: url("HarmonyOS_Sans/HarmonyOS_Sans_Black.ttf") format("woff");
+}
+
+@font-face {
+    font-family: "Harmony-Bold";
+    src: url("HarmonyOS_Sans/HarmonyOS_Sans_Bold.ttf") format("woff");
+}
