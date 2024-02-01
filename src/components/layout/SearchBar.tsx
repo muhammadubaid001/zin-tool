@@ -1,7 +1,7 @@
 export const SearchBar = () => {
   return (
     <div className="flex items-center justify-between px-8 py-3.5">
-      <div className="h-12">
+      <div className="h-12 w-36">
         <img alt="logo" src="/logo.png" className="h-full w-full" />
       </div>
       <div className="hidden md:block relative bg-gray-100 rounded-full w-[500px] p-3.5">
