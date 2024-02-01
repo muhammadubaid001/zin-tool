@@ -20,5 +20,5 @@ export const Menu = () => {
 };
 
 const styles = {
-  menu: "py-3.5 border-b-2 whitespace-nowrap border-white text-gray-700 text-sm cursor-pointer font-HarmonyM hover:border-primary",
+  menu: "py-3.5 border-b-2 whitespace-nowrap border-white text-gray-700 m cursor-pointer font-HarmonyM hover:border-primary",
 };

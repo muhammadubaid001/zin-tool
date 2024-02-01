@@ -58,7 +58,7 @@ export const Slider = () => {
       </button>
       <div
         ref={sliderRef}
-        className="flex overflow-x-auto gap-5 mt-5  scrollbar-hidden pb-4"
+        className="flex overflow-x-auto gap-5 mt-5 scrollbar-hidden pb-4"
       >
         <Card
           title="Word to PDF"
