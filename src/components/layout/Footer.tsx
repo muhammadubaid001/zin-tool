@@ -71,7 +71,7 @@ export const Footer = () => {
               <li>
                 <a
                   className="block py-2 leading-6 hover:text-text-dark text-text-default text-default"
-                  href="/documentaries/"
+                  href="/"
                 >
                   Documentaries
                 </a>
@@ -79,7 +79,7 @@ export const Footer = () => {
               <li>
                 <a
                   className="block py-2 leading-6 hover:text-text-dark text-text-default text-default"
-                  href="/themes/"
+                  href="/"
                 >
                   Themes
                 </a>
@@ -157,7 +157,7 @@ export const Footer = () => {
               <li>
                 <a
                   className="block py-2 leading-6 hover:text-text-dark text-text-default text-default"
-                  href="/documentaries/"
+                  href="/"
                 >
                   Documentaries
                 </a>
@@ -165,7 +165,7 @@ export const Footer = () => {
               <li>
                 <a
                   className="block py-2 leading-6 hover:text-text-dark text-text-default text-default"
-                  href="/themes/"
+                  href="/"
                 >
                   Themes
                 </a>
@@ -243,7 +243,7 @@ export const Footer = () => {
               <li>
                 <a
                   className="block py-2 leading-6 hover:text-text-dark text-text-default text-default"
-                  href="/documentaries/"
+                  href="/"
                 >
                   Documentaries
                 </a>
@@ -251,7 +251,7 @@ export const Footer = () => {
               <li>
                 <a
                   className="block py-2 leading-6 hover:text-text-dark text-text-default text-default"
-                  href="/themes/"
+                  href="/"
                 >
                   Themes
                 </a>
@@ -344,7 +344,7 @@ export const Footer = () => {
             <li>
               <a
                 className="text-sm text-text-default whitespace-nowrap hover:text-text-dark hover:underline"
-                href="/contact/"
+                href="/"
               >
                 Contact
               </a>
